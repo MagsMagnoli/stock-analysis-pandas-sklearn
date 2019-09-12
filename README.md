@@ -9,7 +9,8 @@ Models used are:
 * Polynomial 2
 * Polynomial 3
 
-Results:
+## Results:  
+
 ![Results Screenshot](docs/results.png?raw=true)
 
 ## Help / Questions
